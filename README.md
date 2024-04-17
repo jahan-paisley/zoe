@@ -65,7 +65,7 @@ A simpler approach to solve the overall problem
 
 ## Why python?
 
-Python is the de-facto language for glueing things things together in a lot of industries. It's easy to learn and get productive in no time.
+Python is the de-facto language for glueing things together in a lot of industries. It's easy to learn and get productive in no time.
 
 ## How to start using Zoe?
 
